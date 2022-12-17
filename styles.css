@@ -1,0 +1,50 @@
+#main{
+    margin: 0 auto;
+    font-family: sans-serif, Arial;
+    background-color: #f1f1f1;
+    color:#404040;
+  
+  }
+  
+  
+  #main > h1, p, #headline, section > #end-heading{
+    text-align: center;
+    
+  }
+  
+  #title{
+    font-weight: 800;
+    
+  }
+  
+  #img-div{
+    margin: 0;
+    background: #fff;
+    padding: 15px;
+  }
+  
+  #image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    
+  }
+  
+  #img-caption{
+    text-align: center;
+    margin-top: 15;
+  }
+  
+  #tribute-info{
+    padding: 20px;
+  }
+  
+  #tribute-info ul li{
+    padding: 10px;
+  }
+  
+  section #tribute-link{
+    text-decoration:none;
+    color: #e33333;
+  }
